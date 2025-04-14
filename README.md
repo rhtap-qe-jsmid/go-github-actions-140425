@@ -1,7 +1,7 @@
 # Creating an application with a Go code sample
 
 **Note:** The Go code sample uses the **8081** HTTP port.
-
+ 
 Before you begin creating an application with this `devfile` code sample, it's helpful to understand the relationship between the `devfile` and `Dockerfile` and how they contribute to your build. You can find these files at the following URLs:
 
 * [Go `devfile.yaml`](https://github.com/redhat-appstudio/devfile-sample-go-dance/blob/main/devfile.yaml)
